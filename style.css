@@ -83,6 +83,50 @@ body{
     transition: .5s;
 }
 
+/* BANNER3------------------------------------------- */
+.banner3{
+    display: flex;
+    justify-content: center;
+    border: solid 2px red;
+    text-align: center;
+}
+
+/* BANNER 3 PARAGRAPH 1 */
+.b3p1{
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+
+/* BANNER 3 PARAGRAPH 2 */
+.b3p2{
+  
+    font-size: 25px;
+}
+
+/* BANNER 2 Links at the bottom */
+.banner3links{
+    display: flex;
+    justify-content: center;
+}
+
+.banner3links div{
+    border: solid 2px black;
+    padding: 6px 30px;
+    margin-right: 10px;
+    
+}
+
+.banner3links div:hover{
+    background: black;
+    color: white;
+    transition: .3s;
+}
+
+
+
+
+
+
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
 /* 320px — 480px: Mobile devices ----------------------------------*/
