@@ -1,0 +1,10 @@
+/* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
+
+/* 320px — 480px: Mobile devices ----------------------------------*/
+
+
+@media only screen and (max-width: 480px) {
+    body{
+        background-color: yellow;
+    }
+}
