@@ -88,7 +88,7 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 200px;
 }
 
 /* BANNER 3 PARAGRAPH 1 */
@@ -130,19 +130,18 @@ body{
 
 /* BANNER4------------------------------------------- */
 .banner4{
-    height: 900px;
+    height: 650px;
     display: flex;
     justify-content:space-between ;
     text-align: left;
     padding-top: 40px;
     /* border: solid 2px red; */
 }
+
 .banner4 .bannercontext{
-    padding: 200px 0px 200px 300px;
+    padding: 200px 0px 100px 300px;
     /* border: dashed 2px green; */
 }
-
-
 
 /* BANNER 4 PARAGRAPH 1 */
 .b4p1{
@@ -181,6 +180,11 @@ body{
 } 
 
 
+/* BAMNER CONTEXT 2 for a legends */
+
+.banner4 .bannercontext2{
+    padding: 200px 200px 100px 30px;
+}
 
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
