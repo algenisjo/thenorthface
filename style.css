@@ -73,9 +73,15 @@ body{
     border: solid 2px white;
     padding: 4px;
     margin-right: 10px;
-    background: rgba(4, 5, 4, 0.553)
+    background: rgba(4, 5, 4, 0.553);
 }
 
+.banner2links div:hover{
+    border: solid 2px white;
+    background: white;
+    color: black;
+    transition: .5s;
+}
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
