@@ -1,0 +1,74 @@
+body{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px red;
+}
+
+/* Header 1------------------------------------------- */
+.header1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.header1 div{
+    padding: 5px 10px;
+}
+
+/* Header 2------------------------------------------- */
+.header2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.header2 div{
+    padding:15px;
+    font-weight: 800;
+}
+
+/* BANNER------------------------------------------- */
+.banner{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-weight: 200;
+    /* border: solid 2px red; */
+}
+
+.banner p {
+    padding: 0px 10px;
+}
+
+/* BANNER2------------------------------------------- */
+.banner2{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10%;
+    padding-bottom: 140px;
+}
+
+/* BANNER 2 PARAGRAPH 1 */
+.b2p1{
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+/* BANNER 2 PARAGRAPH 2 */
+.b2p2{
+    font-size: 30px;
+}
+
+/* BANNER 2 Links at the bottom */
+.banner2links{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.banner2links div{
+    border: solid 2px black;
+    padding: 4px;
+    margin-right: 10px;
+}
