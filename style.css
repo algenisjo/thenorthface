@@ -128,6 +128,58 @@ body{
 }
 
 
+/* BANNER4------------------------------------------- */
+.banner4{
+    height: 900px;
+    display: flex;
+    justify-content:space-between ;
+    text-align: left;
+    padding-top: 40px;
+    /* border: solid 2px red; */
+}
+.banner4 .bannercontext{
+    padding: 200px 0px 200px 300px;
+    /* border: dashed 2px green; */
+}
+
+
+
+/* BANNER 4 PARAGRAPH 1 */
+.b4p1{
+    font-size: 50px;
+}
+
+/* BANNER 4 PARAGRAPH 2 */
+.b4p2{
+    font-size: 25px;
+}
+
+/* BANNER 4 Links at the bottom */
+.banner4links{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.banner4links div{
+    border: solid 2px black;
+    padding: 6px 30px;
+    margin-right: 10px;
+    
+}
+
+.banner4links div:hover{
+    background: black;
+    color: white;
+    transition: .3s;
+}
+
+/* BANNER 3 image for the xplr pass */ 
+.banner4img{
+    width: 1600px;
+    /* align-content: center; */
+    padding-top: 150px;
+} 
+
 
 
 
