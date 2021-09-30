@@ -87,23 +87,22 @@ body{
 .banner3{
     display: flex;
     justify-content: center;
-    border: solid 2px red;
     text-align: center;
+    padding-top: 40px;
 }
 
 /* BANNER 3 PARAGRAPH 1 */
 .b3p1{
     font-size: 70px;
-    margin-bottom: 0px;
+    margin: 10px;
 }
 
 /* BANNER 3 PARAGRAPH 2 */
 .b3p2{
-  
     font-size: 25px;
 }
 
-/* BANNER 2 Links at the bottom */
+/* BANNER 3 Links at the bottom */
 .banner3links{
     display: flex;
     justify-content: center;
@@ -122,6 +121,11 @@ body{
     transition: .3s;
 }
 
+/* BANNER 3 image for the xplr pass */
+.banner3img{
+    background-image: url(img/xplrpass.svg);
+    width: 250px;
+}
 
 
 
