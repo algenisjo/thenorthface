@@ -1,7 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 
 /* Header 1------------------------------------------- */
@@ -48,6 +48,8 @@ body{
     justify-content: flex-end;
     padding-right: 10%;
     padding-bottom: 140px;
+    background-image: url(img/sweater.jpg);
+    color: white;
 }
 
 /* BANNER 2 PARAGRAPH 1 */
@@ -68,7 +70,17 @@ body{
 }
 
 .banner2links div{
-    border: solid 2px black;
+    border: solid 2px white;
     padding: 4px;
     margin-right: 10px;
+    background: rgba(4, 5, 4, 0.553)
 }
+
+
+/* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
+
+/* 320px — 480px: Mobile devices ----------------------------------*/
+/* all styling has been moved to style2.css */
+
+/* 481px — 1024px: Tablets & Small Screens ----------------------------------*/
+/* all styling has been moved to style3.css */
