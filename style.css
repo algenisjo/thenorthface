@@ -215,8 +215,29 @@ body{
     width: 400px;
 }
 
+/* FOOTER AREA------------------------------------------------------------------------------------------ */
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer div{
+    padding: 10px 30px;
+}
 
+.footer ul{
+    list-style: none;
+    text-align: left;
+    padding-top: 10px;
+}
 
+.footer li{
+    padding-top: 10px;
+    /* font-size: 15px; */
+}
+.listTitle{
+    font-weight: 800;
+    padding-bottom: 15px;
+}
 
 
 
