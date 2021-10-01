@@ -243,7 +243,7 @@ body{
 
 .listTitle{
     font-weight: 800;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 /* FOOTER AREA 2 ------------------------------------------------------------------------------------------ */
 .footer2{
@@ -266,9 +266,6 @@ body{
 .footer2 p{
     text-align: center;
 }
-
-
-
 
 
 
