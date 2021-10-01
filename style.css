@@ -2,6 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     /* border: solid 2px greenyellow; */
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 /* Header 1------------------------------------------- */
@@ -287,11 +288,24 @@ body{
 .fas{
     font-size: 20px;
 }
-
+/* EMAIL INPUT ------------ ----*/
 .emailinput{
     border: solid 2px rgb(65, 64, 64);
     padding: 15px 80px;
     text-align: left;
+}
+
+/* FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3----*/
+.footer3{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer3 div{
+    display: flex;
+    padding: 0px 5px;
+    font-weight: 700;
+    font-size: 10px;
 }
 
 
