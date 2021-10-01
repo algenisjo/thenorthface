@@ -17,6 +17,9 @@ body{
     padding: 5px 10px;
 }
 
+.header1 div:hover{
+    color:red;
+}
 /* Header 2------------------------------------------- */
 .header2{
     width: 100%;
