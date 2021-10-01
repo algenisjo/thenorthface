@@ -245,10 +245,27 @@ body{
     font-weight: 800;
     padding-bottom: 15px;
 }
+/* FOOTER AREA 2 ------------------------------------------------------------------------------------------ */
+.footer2{
+    display: flex;
+    justify-content: center;
+}
 
+.footer2 div{
+    padding: 0px 50px;
+}
 
+.sociallinks{
+    display:flex;
+}
 
+.sociallinks div{
+    padding: 0px 5px;
+}
 
+.footer2 p{
+    text-align: center;
+}
 
 
 
