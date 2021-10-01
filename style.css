@@ -1,7 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
-    /* border: solid 2px red; */
+    border: solid 2px greenyellow;
 }
 
 /* Header 1------------------------------------------- */
@@ -130,17 +130,16 @@ body{
 
 /* BANNER4------------------------------------------- */
 .banner4{
-    height: 650px;
+    /* height: 650px; */
     display: flex;
     justify-content:space-between ;
     text-align: left;
-    padding-top: 40px;
-    /* border: solid 2px red; */
+    /* padding-top: 40px; */
+    border: solid 2px red;
 }
 
 .banner4 .bannercontext{
     padding: 200px 0px 100px 300px;
-    /* border: dashed 2px green; */
 }
 
 /* BANNER 4 PARAGRAPH 1 */
@@ -176,15 +175,36 @@ body{
 .banner4img{
     width: 1600px;
     /* align-content: center; */
-    padding-top: 150px;
+    padding-top: 50px;
 } 
 
-
 /* BAMNER CONTEXT 2 for a legends */
-
 .banner4 .bannercontext2{
     padding: 200px 200px 100px 30px;
 }
+
+/* Promotions banner -------------------------------------------------------------------*/
+
+.promotions{
+    display: flex;
+    background-color: grey;
+    padding: 20px 0px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
