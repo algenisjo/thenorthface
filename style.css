@@ -14,11 +14,12 @@ body{
 }
 
 .header1 div{
-    padding: 5px 10px;
+    padding: 05px 10px;
 }
 
 .header1 div:hover{
     color:red;
+    text-decoration: underline;
 }
 /* Header 2------------------------------------------- */
 .header2{
@@ -324,3 +325,11 @@ body{
 
 /* 481px — 1024px: Tablets & Small Screens ----------------------------------*/
 /* all styling has been moved to style3.css */
+
+.flag{
+    width: 20px;
+}
+
+.header1 img {
+    margin-top: opx;
+}
