@@ -235,12 +235,15 @@ body{
     padding-top: 10px;
     /* font-size: 15px; */
 }
+
+.footer li:hover{
+    color: red;
+}
+
 .listTitle{
     font-weight: 800;
     padding-bottom: 15px;
 }
-
-
 
 
 
