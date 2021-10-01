@@ -284,6 +284,15 @@ body{
     font-size: 30px;
     color: grey;
 }
+.fas{
+    font-size: 20px;
+}
+
+.emailinput{
+    border: solid 2px rgb(65, 64, 64);
+    padding: 15px 80px;
+    text-align: left;
+}
 
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
