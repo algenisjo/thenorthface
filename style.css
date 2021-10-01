@@ -267,7 +267,17 @@ body{
     text-align: center;
 }
 
+/* finder button styling ----------------------------------*/
+.finderbutton{
+    background-color: black;
+    color: white;
+    padding: 10px 100px;
+    font-size: 20px;
+}
 
+.finderbutton:hover{
+    background-color: grey;
+}
 
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
