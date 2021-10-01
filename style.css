@@ -1,7 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
-    border: solid 2px greenyellow;
+    /* border: solid 2px greenyellow; */
 }
 
 /* Header 1------------------------------------------- */
@@ -135,7 +135,7 @@ body{
     justify-content:space-between ;
     text-align: left;
     /* padding-top: 40px; */
-    border: solid 2px red;
+    /* border: solid 2px red; */
 }
 
 .banner4 .bannercontext{
@@ -184,12 +184,33 @@ body{
 }
 
 /* Promotions banner -------------------------------------------------------------------*/
-
 .promotions{
     display: flex;
-    background-color: grey;
-    padding: 20px 0px;
-    margin-top: 40px;
+    background-color: rgb(249,249,249);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content:center;
+}
+
+.promotions div{
+    padding: 0px 20px;
+}
+
+/* Paragraph styling for the the promtotions banner ---------------*/
+.promotionp1{
+    font-size: 20px;
+}
+
+.promotionp2{
+    font-size: 15px;
+}
+
+/* Promotions images styling----------------*/
+
+.promotionimg{
+    width: 400px;
 }
 
 
