@@ -193,6 +193,7 @@ body{
     margin-top: 50px;
     margin-bottom: 50px;
     justify-content:center;
+    border-bottom: solid 2px gainsboro;
 }
 
 .promotions div{
