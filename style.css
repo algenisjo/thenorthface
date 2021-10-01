@@ -47,8 +47,8 @@ body{
     display: flex;
     justify-content: flex-end;
     padding-right: 10%;
-    padding-bottom: 140px;
-    background-image: url(img/sweater.jpg);
+    padding-bottom: 190px;
+    background-image: url(img/sweater.jpeg);
     color: white;
 }
 
