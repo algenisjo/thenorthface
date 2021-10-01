@@ -260,7 +260,7 @@ body{
 }
 
 .sociallinks div{
-    padding: 0px 5px;
+    padding: 0px 10px;
 }
 
 .footer2 p{
@@ -277,6 +277,12 @@ body{
 
 .finderbutton:hover{
     background-color: grey;
+}
+/* font awesome styling ------------------------------------------------------------- ----------------------------------*/
+
+.fab{
+    font-size: 30px;
+    color: grey;
 }
 
 
