@@ -206,9 +206,11 @@ body{
 .promotionp2{
     font-size: 15px;
 }
+.promotionp2:hover{
+    color: red;
+}
 
 /* Promotions images styling----------------*/
-
 .promotionimg{
     width: 400px;
 }
