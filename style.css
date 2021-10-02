@@ -27,6 +27,13 @@ body{
     width: 20px;
 }
 /* Header 2------------------------------------------- */
+
+.header2top{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header2{
     width: 100%;
     display: flex;
@@ -38,6 +45,22 @@ body{
 .header2 div{
     padding: 0px 15px;
     font-weight: 800;
+}
+
+.header2div2{
+    display: flex;
+    align-items: center;
+}
+
+.searchinput{
+    border: solid 1px black;
+    padding: 5px 20px;
+}
+
+
+/* LOGO 1 LOGO 1 LOGO 1  LOGO 1 */
+.logo1{
+    width: 50px;
 }
 
 /* BANNER------------------------------------------- */
@@ -323,6 +346,12 @@ body{
     font-size: 10px;
 }
 
+.footer3top{
+    padding-top: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
@@ -332,30 +361,7 @@ body{
 /* 481px — 1024px: Tablets & Small Screens ----------------------------------*/
 /* all styling has been moved to style3.css */
 
-/* LOGO 1 LOGO 1 LOGO 1  LOGO 1 LOGO 1 LOGO 1 LOGO 1 LOGO 1  LOGO 1 */
-.logo1{
-    width: 50px;
-}
 
-.header2top{
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.searchinput{
-    border: solid 1px black;
-    padding: 5px 20px;
-}
 
-.header2div2{
-    display: flex;
-    align-items: center;
-}
 
-.footer3top{
-    padding-top: 20px;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-}
