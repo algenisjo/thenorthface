@@ -1,6 +1,34 @@
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
-/* 320px — 480px: Mobile devices ----------------------------------*/
+/* 481px — 1024px: Tablets and Laptops ----------------------------------*/
 
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
+
+    body{
+        background-color: black;
+        width: 1024px;
+    }
+
+
+    /* BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 */
+    .banner2{
+        padding: 2px 20px 50px;
+        
+    }
+
+    .b2p1{
+        font-size: 60px;
+        text-align: right;
+    }
+
+    .b2p2{
+        font-size: 30px;
+        text-align: right;
+    }
+
+    .banner2links {
+        justify-content: flex-end;
+    }
+
+
 }
