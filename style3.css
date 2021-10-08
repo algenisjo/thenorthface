@@ -4,45 +4,75 @@
 
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
 
-    body{
-        background-color: black;
-        width: 1024px;
-    }
+body{
+    background-color: black;
+    width: 1024px;
+    margin: 0px;
+}
 
 /* HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1  */
-    .header1{
-        max-width: 1024px;
-        min-width: 481px;
-        color: white;
-        justify-content: space-around;
-        flex-wrap: wrap;
-    }
+.header1{
+    max-width: 1024px;
+    min-width: 481px;
+    color: white;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 
 
 /* HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 */
-    .header2 div button{
-        font-size: 12px;
-    }
+.header2 div button{
+    font-size: 12px;
+}
 
 /* BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 */
-    .banner2{
-        padding: 2px 20px 50px;
-        
-    }
+.banner2{
+    padding: 2px 20px 50px;
+    
+}
 
-    .b2p1{
-        font-size: 60px;
-        text-align: right;
-    }
+.b2p1{
+    font-size: 60px;
+    text-align: right;
+}
 
-    .b2p2{
-        font-size: 30px;
-        text-align: right;
-    }
+.b2p2{
+    font-size: 30px;
+    text-align: right;
+}
 
-    .banner2links {
-        justify-content: flex-end;
-    }
+.banner2links {
+    justify-content: flex-end;
+}
+
+/* BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 */
+.banner3{
+    max-width: 1024px;
+    min-width: 481px;
+    padding: 20px;
+    background-color: white;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES */
 }
