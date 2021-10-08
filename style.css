@@ -445,13 +445,21 @@ body{
     font-weight: 400;
   }
   
-
-  .dropdown-content div ul {
-      text-align: left;
-    
-  }
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {background-color: #ddd}
   
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
   .show {display:flex;}
+
+/* .dropdownlist {
+    background-color: blueviolet;
+    border: solid 2px red;
+  } */
+
+  .dropdownlist ul {
+    text-align: left;
+    padding: 0px;
+    width: 200px;
+    margin: 10px 0px 0px;
+  }
+  
