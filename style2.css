@@ -3,10 +3,11 @@
 /* 320px — 480px: Mobile devices ----------------------------------*/
 @media only screen and (max-width: 480px) {
 
+/* HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 HEADER 1 */
 .header1{
     display: none;
 }
-
+/* HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 */
 .header2top{
     /* border: solid 2px red; */
     flex-direction: column;
@@ -26,11 +27,53 @@
 .header2div2{
     /* border: solid 2px red; */
     width: 100%;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .header2 .dropdown-content{
     display: none;
 }
 
+/* BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 BANNER 2 */
+
+.b2p1{
+    font-size: 60px;
+    text-align: center;
+    padding: 0px;
+}
+
+.b2p2{
+    font-size: 35px;
+    text-align: center;
+    padding: 0px;
+}
+
+.banner2{
+    /* border: solid 2px red; */
+    width: 100%;
+    padding-right: 0px;
+}
+
+.banner2links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    /* border: solid 2px red; */
+}
+
+.banner2links div{
+    border: solid 2px white;
+    padding: 10px;
+    margin: 10px 40px;
+    background: rgba(4, 5, 4, 0.553);
+}
+
+
+
+
+
+
+
+/* END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES */
 }
