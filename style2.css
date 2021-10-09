@@ -158,7 +158,16 @@
     padding: 0px;
     justify-content: flex-start;
 }
+/* FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 FOOTER 2 */
 
+.footer2{
+    flex-direction: column;
+    background-color: rgb(237, 235, 235);
+}
+
+.footer2 div{
+    padding-top: 10px;
+}
 
 
 
