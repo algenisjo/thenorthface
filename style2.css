@@ -99,7 +99,6 @@
 /* BANNER 4 BANNER 4 BANNER 4 BANNER 4 BANNER 4 BANNER 4 BANNER 4 BANNER 4 BANNER 4 */
 
 .banner4{
-    /* border: 2px solid red; */
     flex-direction: column-reverse;
     width: 100%;
     text-align: left;
@@ -133,6 +132,28 @@
 .banner4links div{
     margin-top: 20px;
 }
+
+/* PROMOTIONS PROMOTIONS PROMOTIONS PROMOTIONS PROMOTIONS PROMOTIONS PROMOTIONS PROMOTIONS */
+
+.promotions{
+    flex-direction: column;
+}
+
+.promotions div{
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 /* END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES */
