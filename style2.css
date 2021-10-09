@@ -3,10 +3,34 @@
 /* 320px — 480px: Mobile devices ----------------------------------*/
 @media only screen and (max-width: 480px) {
 
-    
-body{
-    background-color: yellow;
+.header1{
+    display: none;
 }
 
+.header2top{
+    /* border: solid 2px red; */
+    flex-direction: column;
+}
+
+.header2{
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.header2 div button{
+    /* border: solid 2px red; */
+    padding: 5px;
+    font-size: 20px;
+}
+
+.header2div2{
+    /* border: solid 2px red; */
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.header2 .dropdown-content{
+    display: none;
+}
 
 }
