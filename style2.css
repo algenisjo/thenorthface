@@ -75,9 +75,21 @@
     background: rgba(4, 5, 4, 0.553);
 }
 
+/* BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 BANNER 3 */
+.b3p1{
+    font-size: 50px;
+}
 
+.banner3links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
 
-
+.banner3links div{
+    margin-top: 20px;
+}
 
 
 
