@@ -228,9 +228,9 @@ body{
 
 .banner4links div{
     border: solid 2px black;
-    padding: 6px 30px;
+    padding: 3px;
     margin-right: 10px;
-    
+    text-align: center;    
 }
 
 .banner4links div:hover{
@@ -252,7 +252,7 @@ body{
 }
 
 .promotions div{
-    padding: 0px 20px;
+    padding: 1%;
 }
 
 /* Paragraph styling for the the promtotions banner ---------------*/
@@ -269,7 +269,7 @@ body{
 
 /* Promotions images styling----------------*/
 .promotionimg{
-    width: 400px;
+    width: 90%;
 }
 
 /* FOOTER AREA------------------------------------------------------------------------------------------ */
