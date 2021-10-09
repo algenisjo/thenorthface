@@ -13,6 +13,7 @@ body{
     /* border: solid 2px greenyellow; */
     font-family:Arial, Helvetica, sans-serif;
     /* max-width: 1024px; */
+    width: 100%;
 }
 
 /* Header 1------------------------------------------- */
@@ -205,8 +206,13 @@ body{
     align-items: center;
 }
 
+.banner4img{
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
 .banner4 .bannercontext{
-    padding: 4% 0% 4% 4%;
+    padding: 4%;
     /* border: solid 2px red; */
 }
 
