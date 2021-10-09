@@ -6,11 +6,13 @@
 /* 481px — 1024px: Tablets & Small Screens ----------------------------------*/
 /* all styling has been moved to style3.css */
 
+
 body{
     display: flex;
     flex-direction: column;
     /* border: solid 2px greenyellow; */
     font-family:Arial, Helvetica, sans-serif;
+    /* max-width: 1024px; */
 }
 
 /* Header 1------------------------------------------- */
@@ -51,7 +53,7 @@ body{
 }
 
 .header2 div{
-    padding: 0px 15px;
+    padding: 0px 10px;
     font-weight: 800;
 }
 /* HEADER 2 Div Button ------------------ */
@@ -60,7 +62,7 @@ body{
     font-weight: 800;
     border: none;
     background-color: white;
-    font-size: 20px;
+    font-size: 1em;
 }
 
 .header2 div button:hover{
@@ -186,19 +188,26 @@ body{
     width: 250px;
 }
 
+/* BANNER 3 image for the xplr pass */ 
+.banner4img{
+    width: 100%;
+    /* align-content: center; */
+    padding: 3%;
+} 
+
 
 /* BANNER4------------------------------------------- */
 .banner4{
-    /* height: 650px; */
     display: flex;
     justify-content:space-between ;
     text-align: left;
-    /* padding-top: 40px; */
-    /* border: solid 2px red; */
+    width: 100%;
+    align-items: center;
 }
 
 .banner4 .bannercontext{
-    padding: 200px 0px 100px 300px;
+    padding: 4% 0% 4% 4%;
+    /* border: solid 2px red; */
 }
 
 /* BANNER 4 PARAGRAPH 1 */
@@ -228,18 +237,6 @@ body{
     background: black;
     color: white;
     transition: .3s;
-}
-
-/* BANNER 3 image for the xplr pass */ 
-.banner4img{
-    width: 1600px;
-    /* align-content: center; */
-    padding-top: 50px;
-} 
-
-/* BAMNER CONTEXT 2 for a legends */
-.banner4 .bannercontext2{
-    padding: 200px 200px 100px 30px;
 }
 
 /* Promotions banner -------------------------------------------------------------------*/
