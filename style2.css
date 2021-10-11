@@ -189,6 +189,10 @@
         color: rgb(237, 235, 235);
     }
     
+    .sociallinks{
+        border: solid 2px red;
+        padding: 0px;
+    }
     
     
     
