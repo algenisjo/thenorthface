@@ -198,7 +198,7 @@
     
     /* FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3  */
     .footer3top{
-        border: solid 2px red;
+        /* border: solid 2px red; */
         flex-direction: column;
     }
     
