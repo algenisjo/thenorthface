@@ -329,11 +329,12 @@ body{
 }
 
 /* finder button styling ----------------------------------*/
-.finderbutton{
+div .finderbutton{
     background-color: black;
     color: white;
-    padding: 10px 100px;
+    padding: 10px 0px;
     font-size: 20px;
+    text-align: center;
 }
 
 .finderbutton:hover{
