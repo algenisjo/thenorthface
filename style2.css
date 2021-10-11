@@ -166,11 +166,16 @@
 
 .footer2{
     flex-direction: column;
+    /* border: red 2px solid; */
     background-color: rgb(237, 235, 235);
 }
 
 .footer2 div{
     padding-top: 10px;
+}
+.emailinput{
+    /* border: red solid 2px; */
+    width: 30%;
 }
 
 
