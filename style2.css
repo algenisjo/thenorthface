@@ -8,7 +8,9 @@
         display: none;
     }
     
-    body
+    body{
+        padding-left: 0px;
+    }
     /* HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 */
     .header2top{
         /* border: solid 2px red; */
