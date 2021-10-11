@@ -175,7 +175,11 @@
 }
 .emailinput{
     /* border: red solid 2px; */
-    width: 30%;
+    width: 40%;
+}
+
+.fa-arrow-right{
+    display: none;
 }
 
 
