@@ -191,7 +191,7 @@
     
     .sociallinks{
         border: solid 2px red;
-        padding: 0px;
+        justify-content: center;
     }
     
     
