@@ -7,6 +7,10 @@
 .header1{
     display: none;
 }
+
+body{
+    background-color: blue;
+}
 /* HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 HEADER 2 */
 .header2top{
     /* border: solid 2px red; */
