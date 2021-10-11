@@ -196,8 +196,15 @@
     
     
     
+    /* FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3 FOOTER 3  */
+    .footer3top{
+        border: solid 2px red;
+        flex-direction: column;
+    }
     
-    
+    .footer3{
+       padding-top: 20px;
+    }
     
     
     /* END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES END OF MEDIA QUERIES */
